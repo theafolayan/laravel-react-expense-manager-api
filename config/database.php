@@ -45,7 +45,6 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'url' => 'remotemysql.com',
             'host' => 'remotemysql.com',
             'port' => env('DB_PORT', '3306'),
             'database' => '43TSg5FI2Q',
